@@ -4,6 +4,7 @@
   "obsidian-scroll-to-top-plugin",
   "emoji-shortcodes",
   "obsidian-icon-folder",
-  "vim-toggle",
-  "obsidian-vimrc-support"
+  "obsidian-vimrc-support",
+  "callout-manager",
+  "beautitab"
 ]

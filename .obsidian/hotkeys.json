@@ -185,14 +185,6 @@
       "key": "I"
     }
   ],
-  "outline:open": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Q"
-    }
-  ],
   "vim-toggle:toggle-vim": [
     {
       "modifiers": [

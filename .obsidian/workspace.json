@@ -4,95 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "f68e16b61f651977",
+        "id": "243fab9ca9b198a0",
         "type": "tabs",
         "children": [
           {
-            "id": "3ee744ee11e502c2",
+            "id": "dc5a70b74c8f3e65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/An Introduction to Mathematical Cryptography/1. An Introduction to Cryptography/Simple Substitution Ciphers.md",
+                "file": "Courses/FSO Helsinki/Part 1 - React.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Simple Substitution Ciphers"
+              "title": "Part 1 - React"
             }
           },
           {
-            "id": "b89554bf22ebab10",
+            "id": "b129080b16784934",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/An Introduction to Mathematical Cryptography/1. An Introduction to Cryptography/Divisibility and Greatest Common Divisor.md",
+                "file": "Courses/FSO Helsinki/Part 2 - Communicating with Server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Divisibility and Greatest Common Divisor"
-            }
-          },
-          {
-            "id": "862db3ac99411766",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/Reading Log.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reading Log"
-            }
-          },
-          {
-            "id": "658f82cd85c60c38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/How To Prove It/Introduction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Introduction"
-            }
-          },
-          {
-            "id": "54d8901156722903",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/How To Prove It/1. Sentential Logic/Deductive Reasoning and Logical Connectives.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Deductive Reasoning and Logical Connectives"
-            }
-          },
-          {
-            "id": "274213eaca7c07b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/Reading Log.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reading Log"
+              "title": "Part 2 - Communicating with Server"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "drizzle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 257.5
   },
   "right": {
     "id": "0efa854708d1fa42",
@@ -212,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KULIAH/WBD/5. Ajax.md",
+                "file": "Computer Science/Web Development/Drizzle.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 5. Ajax"
+              "title": "Outline of Drizzle"
             }
           }
         ],
@@ -237,56 +181,57 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "callout-manager:Insert Callout": false
     }
   },
-  "active": "274213eaca7c07b4",
+  "active": "b129080b16784934",
   "lastOpenFiles": [
-    "Books/How To Prove It/1. Sentential Logic/Deductive Reasoning and Logical Connectives.md",
-    "Books/How To Prove It/1. Sentential Logic/Truth Tables.md",
-    "Books/Reading Log.md",
-    "Books/How To Prove It/Introduction.md",
-    "Books/An Introduction to Mathematical Cryptography/1. An Introduction to Cryptography/Divisibility and Greatest Common Divisor.md",
-    "Books/How To Prove It/1. Sentential Logic",
-    "Books/How To Prove It",
-    "Books/An Introduction to Mathematical Cryptography/2. Discrete Logarithms and Diffie-Helman/Rings, Quotients, Polynomials, and Finite Fields.md",
-    "Books/An Introduction to Mathematical Cryptography/2. Discrete Logarithms and Diffie-Helman",
-    "Books/An Introduction to Mathematical Cryptography/1. An Introduction to Cryptography/Simple Substitution Ciphers.md",
-    "Books/An Introduction to Mathematical Cryptography/1. An Introduction to Cryptography",
-    "Books/An Introduction to Mathematical Cryptography",
-    "Untitled 1",
-    "Books",
-    "IMAGES/Pasted image 20251116115715.png",
-    "KULIAH/AI/Support Vector Machine.md",
-    "KULIAH/AI/Support Vector Machines.md",
-    "IMAGES/Pasted image 20251119072914.png",
-    "CTF/Crypto/Vigenere Cipher.md",
-    "CTF/Crypto/Caesar Cipher.md",
-    "CTF/Crypto",
-    "KULIAH/SisParTer/Sistem Terdistribusi",
-    "KULIAH/SBD/Concurrency Control - 2.md",
-    "KULIAH/SBD/Concurrency Control - 1.md",
-    "KULIAH/AI/Issues in Decision Tree Learning.md",
-    "KULIAH/AI/Prediction Measurement.md",
-    "KULIAH/AI/Logistic Regression (AI).md",
-    "IMAGES/Pasted image 20251116214038.png",
-    "IMAGES/Pasted image 20251116212858.png",
-    "IMAGES/Pasted image 20251116211513.png",
-    "IMAGES/Pasted image 20251116200541.png",
-    "KULIAH/AI/Linear Regression (AI).md",
-    "IMAGES/Pasted image 20251115131032.png",
-    "IMAGES/Pasted image 20251116115604.png",
-    "IMAGES/Pasted image 20251116115603.png",
-    "IMAGES/Pasted image 20251116113611.png",
-    "KULIAH/AI/Decision Tree Learning.md",
-    "KULIAH/AI/k-Nearest Neighbour.md",
-    "CTF/WEB EX/File Upload Vulnerabilities.md",
-    "CTF/MISC/Python.md",
-    "CTF/MISC",
-    "CTF/WEB EX/PortSwigger/SQLi Labs.md",
-    "CTF/WEB EX/PortSwigger/PortSwigger Plan.md",
-    "CTF/WEB EX/PortSwigger/Server Side Labs.md",
-    "KULIAH/SisParTer/Sistem Paralel/GPU.md",
-    "KULIAH/AI/7. Rule Based Systems.md"
+    "Courses/FSO Helsinki/Part 1 - React.md",
+    "Courses/FSO Helsinki/Part 2 - Communicating with Server.md",
+    "IMAGES/Pasted image 20260429123921.png",
+    "Courses/FSO Helsinki/Part 0 - Fundamentals.md",
+    "Courses/GCI 2026/Lecture 2 - NumPy.md",
+    "KULIAH/Sem 6/ML/6. Recurrent Neural Network.md",
+    "Courses/GCI 2026/Lecture 3 - Pandas.md",
+    "Courses/GCI 2026/Lecture 1 - Introduction.md",
+    "IMAGES/Pasted image 20260429201010.png",
+    "IMAGES/Pasted image 20260429140757.png",
+    "IMAGES/Pasted image 20260429140736.png",
+    "IMAGES/Pasted image 20260429140357.png",
+    "IMAGES/Pasted image 20260429140048.png",
+    "IMAGES/Pasted image 20260429133612.png",
+    "IMAGES/Pasted image 20260429133210.png",
+    "Computer Science/CP/C++.md",
+    "Computer Science/Platform Technology.md",
+    "Courses/FSO Helsinki.md",
+    "Courses/FSO Helsinki",
+    "Courses",
+    "Computer Science/CP",
+    "Computer Science/Computer Networks.md",
+    "IMAGES/Pasted image 20251216141009.png",
+    "IMAGES/Pasted image 20260423163503.png",
+    "Computer Science/AI & Data/Automatic Differentiation.md",
+    "Computer Science/AI & Data/Backpropagation.md",
+    "KULIAH/Sem 6/ML/5. Convolutional Neural Network.md",
+    "KULIAH/Sem 6/ML/3. Perceptron.md",
+    "KULIAH/Sem 6/ML/4. Feedforward Neural Network.md",
+    "Math",
+    "Computer Science/Cryptography/Continued Fractions.md",
+    "KULIAH/Sem 6/ML/2. Ensemble Learning.md",
+    "KULIAH/Sem 6/ML/Cheatsheet - Ensemble, Perceptron, FFNN.md",
+    "Books/How To Prove It/Cheatsheet.md",
+    "KULIAH/Sem 6/ML/1. Classical Machine Learning.md",
+    "KULIAH/Sem 6/ML/Week Based Notes/Week 1 - Machine Learning & Ensemble Methods.md",
+    "KULIAH/Sem 6/ML/Week Based Notes/Week 3 - ANN-Perceptron.md",
+    "KULIAH/Sem 6/ML/Week Based Notes",
+    "KULIAH/Sem 6/MAD/Week 3 - Layered Architecture.md",
+    "Computer Science/Cryptography/Modular Arithmetic.md",
+    "Computer Science/Cryptography",
+    "Books/How To Prove It/3. Proofs/Proof Strategies - Negations, Conditionals, Quantifiers.md",
+    "Courses/GCI 2026",
+    "Computer Science/AI & Data",
+    "KULIAH/Sem 6/ML",
+    "KULIAH/Sem 6/KDS"
   ]
 }

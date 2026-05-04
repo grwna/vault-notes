@@ -133,6 +133,7 @@ We say $A\subseteq B$ is equivalent to $\forall x(x\in A\to x\in B)$, which is e
 $$\forall x\in A(x\in B)$$
 And we can see that this is similar to the form of [stmt 2], which is *vacuously true* if $A$ is the empty set.
 
+
 ## Validation of Quantificational Statements
 Previously, we were able to validate equivalences on *logical statements* by using **truth tables**. This cannot be done with statements involving *quantifiers*. Currently our method is to look at examples and use common sense. In chapter 3 we will develop **better methods** for this.
 

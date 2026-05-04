@@ -1,0 +1,7 @@
+- Pengantar PAPB
+- Pemrograman Mobile Platform
+	- via API, SDK, 
+- Debugging, Rekayasa Kinerja, Reengineering aplikasi platform mobile
+- Mobile UI/UX
+- Etika dan pengamanan aplikasi pada platform mobile
+- Testing & Deployment aplikasi platform mobile

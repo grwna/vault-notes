@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiLaptop2",
-      "LiLaptop",
-      "LiWind",
-      "LiGraduationCap",
-      "LiImage"
+      "LiBookOpenText",
+      "LiBookMarked",
+      "LiLineChart",
+      "LiMathIntegralX",
+      "LiMathFunction"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,9 +35,15 @@
     "useInternalPlugins": false
   },
   "Books": "LiBookMarked",
-  "CTF": "LiShieldAlert",
   "IMAGES": "LiImage",
   "KULIAH": "LiGraduationCap",
   "Random": "LiWind",
-  "Computer Science": "LiLaptop2"
+  "Computer Science": "LiLaptop2",
+  "Computer Science/CTF": "LiShieldAlert",
+  "Computer Science/AI & Data": "LiNetwork",
+  "Computer Science/Web Development": "LiGlobe",
+  "Computer Science/Low Level Learning": "LiCpu",
+  "Computer Science/Cryptography": "LiFileLock",
+  "Math": "LiLineChart",
+  "Courses": "LiBookOpenText"
 }

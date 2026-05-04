@@ -1,4 +1,4 @@
-Contains notes and motions learned in each chapter, for more explanation of the motions, look [[Vim#Motions|here]]
+Contains notes and motions learned in each chapter, for more explanation of the motions, look [[Random/Tools/Vim#Motions|here]]
 # Chapter 1
 LazyVim and Lazy.nvim are different, **although** maintained by the same person
 # Chapter 2 : Modal Editing

@@ -23,5 +23,9 @@ https://cheatography.com/thesujit/cheat-sheets/lazyvim-neovim/
 
 `w,e,b` words and `ge` - moving by words. **Also have Shift versions**
 `{count}G` - go to a line number
+
+`gd` - go to definition
+`gf` - go to file (imports)
+`%` - jump to matching brackets `({[]})`
 ## Command Mode
 `:e {filepath}` - open path from anywhere 

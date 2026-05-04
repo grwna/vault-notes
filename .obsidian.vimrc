@@ -1,10 +1,12 @@
-nmap j gj
-nmap k gk
+nnoremap j gj
+nnoremap k gk
 
-nmap H ^
-nmap L $
+nnoremap H ^
+nnoremap L $
+vnoremap H ^
+vnoremap L $
 
 set clipboard=unnamed
 
-imap kj <Esc>
-vmap mn <Esc>
+inoremap kj <Esc>
+vnoremap mn <Esc>
