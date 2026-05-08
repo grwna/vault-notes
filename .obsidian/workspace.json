@@ -39,14 +39,12 @@
             "id": "dd1a50ba8e6aba8e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Courses/GCI 2026/Lecture 4 - Data Visualization.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Pasted image 20260508204054.png"
               },
-              "icon": "lucide-file",
-              "title": "Lecture 4 - Data Visualization"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260508204054"
             }
           }
         ],
@@ -199,31 +197,30 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "dd1a50ba8e6aba8e",
+  "active": "ca8d77ab9ca0154d",
   "lastOpenFiles": [
-    "Pasted image 20260508205446.png",
-    "Courses/GCI 2026/Lecture 3 - Pandas.md",
     "Courses/GCI 2026/Lecture 4 - Data Visualization.md",
-    "Pasted image 20260508204401.png",
-    "Pasted image 20260508204054.png",
+    "Images/Pasted image 20260508205446.png",
+    "Courses/GCI 2026/Lecture 3 - Pandas.md",
+    "Images/Pasted image 20260508204401.png",
+    "Images/Pasted image 20260508204054.png",
     "Courses/GCI 2026/Lecture 1 - Introduction.md",
     "Courses/FSO Helsinki/Part 2 - Communicating with Server.md",
-    "KULIAH/Sem 6/ML/6. Recurrent Neural Network.md",
-    "KULIAH/Sem 6/ML/5. Convolutional Neural Network.md",
+    "College/Sem 6/ML/6. Recurrent Neural Network.md",
+    "College/Sem 6/ML/5. Convolutional Neural Network.md",
     "Computer Science/Programming/Functional Programming.md",
     "Courses/FSO Helsinki/Part 1 - React.md",
     "Random/Exercises.md",
     "Computer Science/Programming",
-    "IMAGES/Pasted image 20260429123921.png",
+    "Images/Pasted image 20260429123921.png",
     "Courses/FSO Helsinki/Part 0 - Fundamentals.md",
     "Courses/GCI 2026/Lecture 2 - NumPy.md",
-    "IMAGES/Pasted image 20260429201010.png",
-    "IMAGES/Pasted image 20260429140757.png",
-    "IMAGES/Pasted image 20260429140736.png",
-    "IMAGES/Pasted image 20260429140357.png",
-    "IMAGES/Pasted image 20260429140048.png",
-    "IMAGES/Pasted image 20260429133612.png",
-    "IMAGES/Pasted image 20260429133210.png",
+    "Images/Pasted image 20260429201010.png",
+    "Images/Pasted image 20260429140757.png",
+    "Images/Pasted image 20260429140736.png",
+    "Images/Pasted image 20260429140357.png",
+    "Images/Pasted image 20260429140048.png",
+    "Images/Pasted image 20260429133612.png",
     "Computer Science/CP/C++.md",
     "Computer Science/Platform Technology.md",
     "Courses/FSO Helsinki.md",
@@ -233,19 +230,19 @@
     "Computer Science/Computer Networks.md",
     "Computer Science/AI & Data/Automatic Differentiation.md",
     "Computer Science/AI & Data/Backpropagation.md",
-    "KULIAH/Sem 6/ML/3. Perceptron.md",
-    "KULIAH/Sem 6/ML/4. Feedforward Neural Network.md",
+    "College/Sem 6/ML/3. Perceptron.md",
+    "College/Sem 6/ML/4. Feedforward Neural Network.md",
     "Math",
     "Computer Science/Cryptography/Continued Fractions.md",
-    "KULIAH/Sem 6/ML/2. Ensemble Learning.md",
-    "KULIAH/Sem 6/ML/Cheatsheet - Ensemble, Perceptron, FFNN.md",
+    "College/Sem 6/ML/2. Ensemble Learning.md",
+    "College/Sem 6/ML/Cheatsheet - Ensemble, Perceptron, FFNN.md",
     "Books/How To Prove It/Cheatsheet.md",
-    "KULIAH/Sem 6/ML/1. Classical Machine Learning.md",
-    "KULIAH/Sem 6/ML/Week Based Notes/Week 1 - Machine Learning & Ensemble Methods.md",
-    "KULIAH/Sem 6/ML/Week Based Notes",
+    "College/Sem 6/ML/1. Classical Machine Learning.md",
+    "College/Sem 6/ML/Week Based Notes/Week 1 - Machine Learning & Ensemble Methods.md",
+    "College/Sem 6/ML/Week Based Notes",
     "Computer Science/Cryptography",
     "Courses/GCI 2026",
     "Computer Science/AI & Data",
-    "KULIAH/Sem 6/ML"
+    "College/Sem 6/ML"
   ]
 }
