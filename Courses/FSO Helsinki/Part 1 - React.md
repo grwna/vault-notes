@@ -46,6 +46,7 @@ In JavaScript, defining functions inside another functions is a common practice.
 **Passing States to Children**
 - Shared data should be moved up to the closest common ancestor.
 - The same rules for passing states applies for passing event handlers to children.
+- When there are many props to pass, use the data's variable name, while verbose, it's readable.
 
 # Complex-er State & Debugging React Apps
 **Complex State**
