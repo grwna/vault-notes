@@ -166,10 +166,10 @@ use `right=False` to make the cut open interval.
 - `.groupby()`
 - `.mean()`, `.max()`, etc.
 - `.agg()`
-
 Use `.groupby()` to group a dataset by a column's values.
 ```python
 data = df.groupby('Type_of_transport')
+data = df.groupby(['transport', 'age'])
 mean_time_by_transport = data['time'].mean()
 
 # do multiple aggregations at once
@@ -234,6 +234,8 @@ Practice on many datasets to get an intuition on which approach are best.
 - `.ffill()`
 - `.sort_index()`
 - `.sort_values()`
+- `.assign()` <- create new DataFrame
+- `.groupby()` <- usually used for aggregating
 
 **Summary of Attributes** 
 - `.loc .iloc`

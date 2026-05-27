@@ -4,51 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "243fab9ca9b198a0",
+        "id": "a5f524d0868bb559",
         "type": "tabs",
         "children": [
           {
-            "id": "b129080b16784934",
+            "id": "3f4a8bdb3cbc71ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/FSO Helsinki/Part 2 - Communicating with Server.md",
+                "file": "Courses/GCI 2026/Lecture 1 - Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Part 2 - Communicating with Server"
-            }
-          },
-          {
-            "id": "17e4ffc59d4681f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses/GCI 2026/Lecture 3 - Pandas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 3 - Pandas"
-            }
-          },
-          {
-            "id": "dd1a50ba8e6aba8e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20260508204054.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260508204054"
+              "title": "Lecture 1 - Introduction"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,48 +170,48 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "ca8d77ab9ca0154d",
+  "active": "3f4a8bdb3cbc71ca",
   "lastOpenFiles": [
-    "Courses/GCI 2026/Lecture 4 - Data Visualization.md",
-    "Images/Pasted image 20260508205446.png",
+    "Courses/GCI 2026/Lecture 5 - Supervised Learning.md",
     "Courses/GCI 2026/Lecture 3 - Pandas.md",
-    "Images/Pasted image 20260508204401.png",
-    "Images/Pasted image 20260508204054.png",
-    "Courses/GCI 2026/Lecture 1 - Introduction.md",
-    "Courses/FSO Helsinki/Part 2 - Communicating with Server.md",
-    "College/Sem 6/ML/6. Recurrent Neural Network.md",
-    "College/Sem 6/ML/5. Convolutional Neural Network.md",
-    "Computer Science/Programming/Functional Programming.md",
-    "Courses/FSO Helsinki/Part 1 - React.md",
-    "Random/Exercises.md",
-    "Computer Science/Programming",
-    "Images/Pasted image 20260429123921.png",
-    "Courses/FSO Helsinki/Part 0 - Fundamentals.md",
-    "Courses/GCI 2026/Lecture 2 - NumPy.md",
+    "Images/x86 stack frame.png",
     "Images/Pasted image 20260429201010.png",
     "Images/Pasted image 20260429140757.png",
     "Images/Pasted image 20260429140736.png",
     "Images/Pasted image 20260429140357.png",
     "Images/Pasted image 20260429140048.png",
     "Images/Pasted image 20260429133612.png",
+    "Images/Pasted image 20260429133210.png",
+    "Images/Pasted image 20260429123921.png",
+    "Images/Pasted image 20260423163503.png",
+    "Courses/GCI 2026/Lecture 2 - NumPy.md",
+    "Courses/GCI 2026/Lecture 1 - Introduction.md",
+    "Computer Science/CTF/PWN/Stack.md",
+    "Computer Science/CTF/PWN/Return Oriented Programming.md",
+    "Computer Science/CTF/PWN/Introduction to PWN.md",
+    "Computer Science/CTF/PWN/Heap Exploitation.md",
+    "Computer Science/CTF/Crypto/Caesar Cipher.md",
+    "Computer Science/CTF/Crypto/Vigenere Cipher.md",
+    "Computer Science/Computer Networks.md",
+    "Computer Science/Language Theory.md",
+    "Courses/GCI 2026/Untitled.md",
+    "Courses/GCI 2026/Lecture 4 - Data Visualization.md",
     "Computer Science/CP/C++.md",
+    "Computer Science/Cryptography/Continued Fractions.md",
+    "Courses/FSO Helsinki/Part 2 - Communicating with Server.md",
+    "Computer Science/CP/Intuition.md",
+    "College/Sem 6/ML/6. Recurrent Neural Network.md",
+    "College/Sem 6/ML/5. Convolutional Neural Network.md",
+    "Computer Science/Programming/Functional Programming.md",
+    "Courses/FSO Helsinki/Part 1 - React.md",
+    "Random/Exercises.md",
+    "Computer Science/Programming",
+    "Courses/FSO Helsinki/Part 0 - Fundamentals.md",
     "Computer Science/Platform Technology.md",
-    "Courses/FSO Helsinki.md",
     "Courses/FSO Helsinki",
     "Courses",
     "Computer Science/CP",
-    "Computer Science/Computer Networks.md",
-    "Computer Science/AI & Data/Automatic Differentiation.md",
-    "Computer Science/AI & Data/Backpropagation.md",
-    "College/Sem 6/ML/3. Perceptron.md",
-    "College/Sem 6/ML/4. Feedforward Neural Network.md",
     "Math",
-    "Computer Science/Cryptography/Continued Fractions.md",
-    "College/Sem 6/ML/2. Ensemble Learning.md",
-    "College/Sem 6/ML/Cheatsheet - Ensemble, Perceptron, FFNN.md",
-    "Books/How To Prove It/Cheatsheet.md",
-    "College/Sem 6/ML/1. Classical Machine Learning.md",
-    "College/Sem 6/ML/Week Based Notes/Week 1 - Machine Learning & Ensemble Methods.md",
     "College/Sem 6/ML/Week Based Notes",
     "Computer Science/Cryptography",
     "Courses/GCI 2026",
