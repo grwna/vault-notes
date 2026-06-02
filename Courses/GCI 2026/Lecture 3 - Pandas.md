@@ -12,6 +12,8 @@ Pandas is focused on **structured data**
 ## **Data Structures**
 - Series (single-column)
 	- Can have custom indices (series.index)
+	- Can have multiindex
+		- Multiindex can be unstacked, turning series into dataframe
 - DataFrame
 	- Can be initialized using dictionary syntax (column-rows pair), then pass to `DataFrame(dict)`
 	- Made up of three elements: `values`, `index`, and `columns`

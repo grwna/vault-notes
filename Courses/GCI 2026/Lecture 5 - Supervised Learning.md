@@ -41,7 +41,7 @@ Libraries:
 -  Scaling/Standardization
 	- `StandardScaler()`
 	- `scaler.fit(X_train)`
-	- `scaler.transform(X_train/X_test)`
+	- `scaler.transform(X_train/X_test)` -> array/df
 -  Encoding
 	- Encodes non numerical values into a format understandable by models
 	- OneHot -> Each unique value becomes it's own columns
@@ -98,7 +98,7 @@ Libraries:
 **Coding the Evaluation**
 Using K-fold Cross-Validation
 - `sklearn.model_selection.cross_val_score`
-- `cross_val_score(model, X, y, cv='fold')`
+- `cross_val_score(model, X, y, cv=fold_count)`
 - Note: calling the function will run training, but it won't train the `model`
 - This step is used only to test hyperparameters
 
