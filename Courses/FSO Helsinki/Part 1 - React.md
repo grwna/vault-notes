@@ -5,15 +5,15 @@
 
 # Javascript
 - Use `let` and `const`, ill advised to use `var`
-- Const arrays's contents can still be modified, because the array itself is the same
+- Const arrays's contents can still be modified, because the array itself is the same (pointers)
 - To add elements in array in React, it is preferable to use `arr.concat()`, which creates a new array instead of appending.
 - Array methods:
 	- `forEach`
 	- `concat` -> creates a new array programmatically
 	- `map`
 - Destructuring assignments (ex. `[first, b, ...rest`)
-- Objects: same as Python dicts, can be ccessed using `obj.key` or `obj[key]`
-- React uses 'hooks', which makes it so that Object doesn't need to be defined with methods (we'll never use it like that.
+- Objects: same as Python dicts, can be accessed using `obj.key` or `obj[key]`
+- React uses 'hooks', which makes it so that Object doesn't need to be defined with methods (we'll never use it like that).
 - Calling `this` on a reference doesn't refer to the object, but a global object. `this`-less code is preferred for this reason.
 - Resources to learn JS
 	- [MDN JS Overview](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Language_overview)
@@ -21,7 +21,7 @@
 	- [Eloquent JavaScript](https://eloquentjavascript.net)
 
 # Component state & Event handlers
-In JavaScript, defining functions inside another functions is a common practice.
+- In JavaScript, defining functions inside another functions is a common practice.
 - You can destructure in JS.
 	```javascript
 	const {name, age} = props // where props contains props.name, props.age
@@ -50,7 +50,7 @@ In JavaScript, defining functions inside another functions is a common practice.
 
 # Complex-er State & Debugging React Apps
 **Complex State**
-- To store more complext states, you can create many different `useState()` calls, or store a single state in a certain data type. 
+- To store more complex states, you can create many different `useState()` calls, or store a single state in a certain data type. 
 - A component's state can be of any type, which means you use objects inside `useState()`.
 - Object spread syntax: expand array into its elements.
 ```javascript
@@ -59,7 +59,7 @@ In JavaScript, defining functions inside another functions is a common practice.
 	left: left + 1, // overwrites the spreaded attribute
 }
 ```
-- Rest syntax: condense array's elements into a single variable.
+- rest syntax: condense array's elements into a single variable.
 - States are **immutable**, this is why you need to use `setState`.
 	- For this reason, make sure use methods that creates a copy of an object (ex. `concat()` vs `push()`)
 	- Also use spread to copy an object/array 

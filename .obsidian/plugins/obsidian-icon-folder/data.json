@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCode",
       "LiBookOpenText",
       "LiBookMarked",
       "LiLineChart",
-      "LiMathIntegralX",
-      "LiMathFunction"
+      "LiMathIntegralX"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -45,5 +45,6 @@
   "Math": "LiLineChart",
   "Courses": "LiBookOpenText",
   "College": "LiGraduationCap",
-  "Images": "LiImage"
+  "Images": "LiImage",
+  "Computer Science/Programming": "LiCode"
 }

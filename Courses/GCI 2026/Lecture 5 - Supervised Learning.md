@@ -109,3 +109,9 @@ Using K-fold Cross-Validation
 		- `GridSearchCV(estimator=model, param_grid={dict of string:list}, cv=k)`
 		- Uses stratified k-fold cross by default
 		- Returns a *trained model* using the best hyperparameters
+
+
+# Summary
+- `sklearn.model_selection`
+	- `KFold`
+	- `StratifiedKFold`

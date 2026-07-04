@@ -20,7 +20,7 @@ array.reduce((accumulator, currentValue, currentIndex, array) => {
 - Use map to return a **new array** based on the elements from an array:
 	- `notes.map(note => <li>{note.content}</li>)`
 	- When rendering like this, add *key* attribute to each element.
-- Note that you **should not** use array indices as keys. [Read](https://robinpokorny.com/blog/index-as-a-key-is-an-anti-pattern/). In short, indices can change for the same element.
+- Note that you **should not** use array indices as keys. [Read](https://robinpokorny.com/blog/index-as-a-key-is-an-anti-pattern/). In short, indices can change for the same element/object.
 ```javascript
 const sumWithInitial = array.reduce(
   (accumulator, currentValue) => accumulator + currentValue,
@@ -59,7 +59,7 @@ Basic Syntax:
 - Promise represents eventual completion/failure of async operations
 	- It has three states, pending, fulfilled, rejected (error).
 	- To access promises response, use `then`, signifying the promise was fulfilled.
-	- `then` takes a callback, which is done after the eventual completion of the promise.
+	- `then` takes a callback, which is run after the eventual completion of the promise.
 	- [More on promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
 **Effect-hooks**
@@ -71,7 +71,7 @@ Basic Syntax:
 **REST**
 - Data objects are called *resources*, with an address URL.
 - Use `POST` to create new resource.
-- axios automatically sets Content-Type headers for POST (i.e. if it's a json object.
+- axios automatically sets Content-Type headers if its a POST request (i.e. if it's a json object).
 - Use payload and response tab of Network.
 - Once server data affects web app behaviour, we need to be careful with *asynchronicity* of communication.
 
@@ -103,12 +103,18 @@ const age = 0
 const person = {name, age} // this defines an object, where the key names are equal to the var names
 ```
 
-
 **Promises and Errors**
 - A fetch data that A can rename, B deletes that data. A still has the data in the client side, then renames it (modifying non existing data). What happens?
 - 404 <-- but A has to open devtools to see it, the app **should not** rely on users using devtools.
 - Handle gracefully <-- add `.catch()` to chain after `.then()`.
 - You should add catch in the service as well as the component, use `throw error` in the service layer.
+
+# Adding Styles to React App
+- `Object.values()` - iterate over the values without knowing the keys, for a list of key-values pair
+- `useEffect()` that interacts with external systems **should always** be cleaned up
+	- [Learn More](https://refine.dev/blog/useeffect-cleanup/)
+
+
 # Summary
 - `.some()` (boolean) vs `.find()`(element)
 - `String.includes()`

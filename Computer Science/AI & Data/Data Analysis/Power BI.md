@@ -1,0 +1,36 @@
+Things I've Learned
+- Power Query
+	- Transforming data
+	- Create Star
+- DAX
+	- Measure
+	- New Table
+	- In memory
+- Duplicate vs Reference
+	- Duplicate: new M-CODE and executed
+	- Reference: refer to the table only
+- Merge vs Append
+	- Merge: Horizontal - merge columns
+	- Append: Vertical - merge rows
+
+# DAX
+- Calculations
+	- Table
+	- Column
+	- Measure
+- Data Types
+	- Whole number: 64-bit int
+	- Decimal number: 64-bit real
+	- Boolean: Boolean
+	- Text: String
+	- Date: Date/Time
+	- Currency: Currency
+	- N/A: BLANK
+- Operators
+	- +, -, \*, /, \^
+	- =, \==, >, <, >=, <=, <>
+	- & - concatenation operator
+	- ||, &&, IN, NOT
+- `CALCULATE()`
+	- 
+- 
