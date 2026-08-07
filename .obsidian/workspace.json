@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e3b94dd4869aa4c2",
+        "id": "293f53fae55c2a06",
         "type": "tabs",
         "children": [
           {
-            "id": "a2f6c60ca357983d",
+            "id": "606b846a59e7861e",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20260724220751.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260724220751"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -142,7 +139,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Pasted image 20260724220751.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -170,8 +166,9 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "427690771757b7cc",
+  "active": "606b846a59e7861e",
   "lastOpenFiles": [
+    "Images/Pasted image 20260724220751.png",
     "Courses/FSO Helsinki/Part 5 - React Testing, React Router.md",
     "Language/Japanese/Japanese.md",
     "Language/Japanese/Verbs.md",
@@ -189,7 +186,6 @@
     "Courses/FSO Helsinki/Part 1 - React.md",
     "Courses/FSO Helsinki/Part 0 - Fundamentals.md",
     "Images/Pasted image 20260724220808.png",
-    "Images/Pasted image 20260724220751.png",
     "Computer Science/Programming/Regex.md",
     "Computer Science/CTF/PWN/Shellcode.md",
     "Books/Learn You a Haskell for Great Good!/1. Introduction & Starting Out.md",
@@ -208,7 +204,6 @@
     "Computer Science/CTF/PWN/Stack.md",
     "Computer Science/CTF/PWN/Introduction to PWN.md",
     "Computer Science/CTF/PWN/Heap Exploitation.md",
-    "Computer Science/CTF/PWN/PWN How-To's.md",
-    "Computer Science/CTF/PWN/Tools.md"
+    "Computer Science/CTF/PWN/PWN How-To's.md"
   ]
 }
