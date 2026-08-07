@@ -1,0 +1,2 @@
+- the verb in Japanese sentences always comes at the end (an exception not directly mentioned by Tae Kim in this context are sentence ending particles). Anything else before the verb may come in any particular order, because particles define the role of the words.
+- **In Japanese, you can use entire sentences to describe nouns. They are called "relative verb clauses"**

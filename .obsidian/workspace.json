@@ -1,88 +1,59 @@
 {
   "main": {
-    "id": "b35e63f3443760d4",
+    "id": "c49793579eec2f37",
     "type": "split",
     "children": [
       {
-        "id": "c5ed08e9c75c3c38",
+        "id": "e3b94dd4869aa4c2",
         "type": "tabs",
         "children": [
           {
-            "id": "8c1c26f999cebf4b",
+            "id": "a2f6c60ca357983d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Courses/FSO Helsinki/Part 2 - Communicating with Server.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Pasted image 20260724220751.png"
               },
-              "icon": "lucide-file",
-              "title": "Part 2 - Communicating with Server"
-            }
-          },
-          {
-            "id": "60947c4e7158fcb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses/FSO Helsinki/Part 3 - Programming a Server.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Part 3 - Programming a Server"
-            }
-          },
-          {
-            "id": "37490feccdd5d3e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/AI & Data/Data Analysis/Power BI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Power BI"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260724220751"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b3966edcb0bc0a07",
+    "id": "75add63411274589",
     "type": "split",
     "children": [
       {
-        "id": "75e9b62f539bd70e",
+        "id": "98ae00b86d905b61",
         "type": "tabs",
         "children": [
           {
-            "id": "ca8d77ab9ca0154d",
+            "id": "427690771757b7cc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "5291e2622d584dd6",
+            "id": "28cf249ccb26b9d0",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "drizzle",
+                "query": "\"Pasted image 20250713133046\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +65,7 @@
             }
           },
           {
-            "id": "3de46f6dddc4b4c1",
+            "id": "285ec9c252088d29",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -110,47 +81,48 @@
     "width": 200
   },
   "right": {
-    "id": "0efa854708d1fa42",
+    "id": "d006c68fe6deaf66",
     "type": "split",
     "children": [
       {
-        "id": "554d1053d1c10b58",
+        "id": "69baad4d2f67484d",
         "type": "tabs",
         "children": [
           {
-            "id": "384e75fe4dc6578a",
+            "id": "fa841a4ab6374fc4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KULIAH/SisBasDat/6. Index Tuning.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Courses/FSO Helsinki/Part 3 - Programming a Server.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 6. Index Tuning"
+              "title": "Backlinks for Part 3 - Programming a Server"
             }
           },
           {
-            "id": "fff5c21e54a08a09",
+            "id": "26a23a5e9e86f51a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Courses/FSO Helsinki/Part 3 - Programming a Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Part 3 - Programming a Server"
             }
           },
           {
-            "id": "b50ac7750730eaa0",
+            "id": "5ae5c282c7d24d49",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -165,18 +137,18 @@
             }
           },
           {
-            "id": "0f59d990ecb9f2cd",
+            "id": "75a3175f8110c02e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/FSO Helsinki/Part 3 - Programming a Server.md",
+                "file": "Images/Pasted image 20260724220751.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Part 3 - Programming a Server"
+              "title": "Outline"
             }
           }
         ],
@@ -184,67 +156,59 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 218.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "60947c4e7158fcb7",
+  "active": "427690771757b7cc",
   "lastOpenFiles": [
-    "Computer Science/Programming/Regex.md",
-    "Courses/FSO Helsinki/FSO - Course Plan.md",
-    "Courses/FSO Helsinki/Part 2 - Communicating with Server.md",
-    "Courses/FSO Helsinki/Part 3 - Programming a Server.md",
-    "Computer Science/AI & Data/Data Analysis/Power BI.md",
-    "Courses/FSO Helsinki/Part 0 - Fundamentals.md",
-    "Courses/FSO Helsinki/Part 1 - React.md",
-    "Computer Science/AI & Data/Data Analysis",
-    "Courses/GCI 2026/Lecture 3 - Pandas.md",
-    "Courses/GCI 2026/Lecture 5 - Supervised Learning.md",
-    "Courses/GCI 2026/Lecture 9 - Marketing.md",
-    "Courses/GCI 2026/Lecture 4 - Data Visualization.md",
-    "Computer Science/AI & Data/Data Preparation & Modelling.md",
-    "Images/Pasted image 20260612085615.png",
-    "Courses/GCI 2026/Lecture 8 - Feature Engineering & Ensemble Learning.md",
-    "Images/Pasted image 20260610163145.png",
-    "Courses/GCI 2026/Lecture 1 - Introduction.md",
-    "College/Sem 6/ML/8. Reinforcement Learning.md",
-    "College/Sem 6/ML/6. Recurrent Neural Network.md",
-    "College/Sem 6/ML/7. Attention & Transformers.md",
-    "Images/Pasted image 20260609042207.png",
-    "Images/Pasted image 20260609041020.png",
-    "Images/Pasted image 20260609031045.png",
-    "Images/Pasted image 20260608222256.png",
-    "Images/Pasted image 20260608222223.png",
-    "Images/Pasted image 20260608221933.png",
-    "Images/Pasted image 20260608182502.png",
-    "Images/Pasted image 20260527150357.png",
-    "College/Sem 6/ML/Cheatsheet - Ensemble, Perceptron, FFNN.md",
-    "Courses/GCI 2026/Lecture 7 - Competition & Final Assignment.md",
-    "Courses/GCI 2026/Lecture 6 - Model Evaluation.md",
+    "Courses/FSO Helsinki/Part 5 - React Testing, React Router.md",
+    "Language/Japanese/Japanese.md",
+    "Language/Japanese/Verbs.md",
+    "Language/Japanese/Particles.md",
+    "Language/Japanese/General Grammar.md",
     "Courses/GCI 2026/Extra.md",
-    "Books/How To Prove It/3. Proofs/Proofs -  Solutions to Selected Exercises.md",
-    "College/Sem 5/AI/Prediction Measurement.md",
-    "Courses/GCI 2026/Lecture 2 - NumPy.md",
-    "Computer Science/CTF/PWN/Stack.md",
+    "Language/Japanese/Adjectives.md",
+    "Language/Japanese",
+    "Language",
+    "Courses/FSO Helsinki/FSO - Extra.md",
+    "Courses/FSO Helsinki/FSO - Course Plan.md",
+    "Courses/FSO Helsinki/Part 4 - Testing and Auth.md",
+    "Courses/FSO Helsinki/Part 3 - Programming a Server.md",
+    "Courses/FSO Helsinki/Part 2 - Communicating with Server.md",
+    "Courses/FSO Helsinki/Part 1 - React.md",
+    "Courses/FSO Helsinki/Part 0 - Fundamentals.md",
+    "Images/Pasted image 20260724220808.png",
+    "Images/Pasted image 20260724220751.png",
+    "Computer Science/Programming/Regex.md",
+    "Computer Science/CTF/PWN/Shellcode.md",
+    "Books/Learn You a Haskell for Great Good!/1. Introduction & Starting Out.md",
+    "Books/Learn You a Haskell for Great Good!",
+    "Computer Science/CTF/Reverse Engineering/Functions, Frames, and Data.md",
+    "Images/Pasted image 20250713133046.png",
+    "Images/Pasted image 20250713144158.png",
+    "Images/Pasted image 20250713132945.png",
+    "Images/Pasted image 20250713132600.png",
+    "Images/Pasted image 20250712203434.png",
+    "Images/Pasted image 20250711110710.png",
+    "Images/finite_automata_example.png.png",
     "Computer Science/CTF/PWN/Return Oriented Programming.md",
-    "Computer Science/Programming",
-    "Courses/FSO Helsinki",
-    "Courses",
-    "Computer Science/CP",
-    "Math",
-    "College/Sem 6/ML/Week Based Notes",
-    "Computer Science/Cryptography",
-    "Courses/GCI 2026",
-    "Computer Science/AI & Data"
+    "Computer Science/Low Level Learning/Assembly.md",
+    "Computer Science/Low Level Learning/Architecture.md",
+    "Computer Science/CTF/PWN/Stack.md",
+    "Computer Science/CTF/PWN/Introduction to PWN.md",
+    "Computer Science/CTF/PWN/Heap Exploitation.md",
+    "Computer Science/CTF/PWN/PWN How-To's.md",
+    "Computer Science/CTF/PWN/Tools.md"
   ]
 }

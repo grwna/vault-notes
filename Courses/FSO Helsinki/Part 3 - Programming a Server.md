@@ -57,6 +57,7 @@ app.listen(PORT, () => {
 - With `res.send()`, express will automatically detect the data you send and set the content type accordingly
 - Alternatively, you can use `res.json()`, or other sending methods
 - Keep in mind the difference between Json and Javascript Objects
+- Route handlers can use return for early halting, but the value is ignored by express
 
  **Automatic Change Tracking**
 - You can add a dev script to `package.json`:

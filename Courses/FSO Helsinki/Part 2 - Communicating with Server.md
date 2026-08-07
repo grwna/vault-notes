@@ -8,7 +8,7 @@
 	 - `reduce` is powerful, it can replace any other array transformations.
 	 - How it works, it takes 2 parameters, a callback, and a reducer variable. The callback will also have 2 parameters, one for reducer, and one for iterated value.
 ```javascript
-array.reduce((accumulator, currentValue, currentIndex, array) => {
+array.reduce((accumulator, currentValue, <currentIndex>, array) => {
   // logic to update the accumulator
   // note: array is used to reference the original array
   return accumulator;
