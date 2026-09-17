@@ -24,6 +24,18 @@ Quick list
 | **よ / ね**<br> | _yo / ne_     | Sentence ending (emphasis / seeking agreement) | 美味しいね (_It's delicious, isn't it?_)                 |
 **Note**
 - は can be replaced with って
+- 死しぬ の は 怖くない - dying is not scary
+	- Is a valid sentence, here の acts to enable the particle は, similary to adding -ing in english
+	- Another way to see it is that の is a **nominalizer**, it turns verbs or adjectives into nouns
+- の at the end of a sentence conveys an explanatory tone ("because") or asking for explanations, だ can also be used for explanatory tone, but cant be for questions.
+- In practice, the "no da/の だ" is often spelled as "n da/ん だ", maybe because it is easier to pronounce.
+- だ in んだ can be conjugated (for example to じゃない ---> んじゃない)
+
+**Note**
+If the explanatory "no" follows a noun or a na-adjective, there's a "na" added in between to distinguish it from the "no" used for linking a property
 
 **Note**
 "ni, he, de" can be combined with "ha, mo" to set the target or context as topic, here's [Tae Kim's explanation](http://www.guidetojapanese.org/learn/grammar/verbparticles#When_location_is_the_topic). Note that "wo" cannot be combined with these particles, so "fish wo mo tabeta" is wrong. You'd simply say: "fish mo tabeta".
+
+ので puts emphasis on the reason, whereas から puts emphasis on the result
+

@@ -4,19 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "293f53fae55c2a06",
+        "id": "6b1ce38f25cfbbc6",
         "type": "tabs",
         "children": [
           {
-            "id": "606b846a59e7861e",
+            "id": "5d3ee2a75a9192ab",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Language/Japanese/Particles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Particles"
+            }
+          },
+          {
+            "id": "79a35d8cf6c37520",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/FSO Helsinki/Part 12 - Containers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Part 12 - Containers"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -50,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Pasted image 20250713133046\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,6 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Courses/FSO Helsinki/Part 12 - Containers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -166,16 +187,27 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "606b846a59e7861e",
+  "active": "79a35d8cf6c37520",
   "lastOpenFiles": [
-    "Images/Pasted image 20260724220751.png",
-    "Courses/FSO Helsinki/Part 5 - React Testing, React Router.md",
-    "Language/Japanese/Japanese.md",
-    "Language/Japanese/Verbs.md",
     "Language/Japanese/Particles.md",
-    "Language/Japanese/General Grammar.md",
-    "Courses/GCI 2026/Extra.md",
+    "Courses/FSO Helsinki/Part 12 - Containers.md",
+    "Courses/FSO Helsinki/Part 12 - Containers",
     "Language/Japanese/Adjectives.md",
+    "Language/Japanese/Verbs.md",
+    "Courses/FSO Helsinki/Part 5 - React Testing, React Router.md",
+    "Computer Science/Vibe Coding/Markdown.md",
+    "Courses/FSO Helsinki/Part 6 - Advanced State Management.md",
+    "Courses/FSO Helsinki/Part 1 - React.md",
+    "Language/Japanese/Japanese.md",
+    "Computer Science/Vibe Coding",
+    "Language/Japanese/Teineigo.md",
+    "Language/Japanese/Adverbs.md",
+    "Language/Japanese/Vocab.md",
+    "Language/Japanese/General Grammar.md",
+    "Part 7 - Custom Hooks and ESBuild.md",
+    "物.md",
+    "Images/Pasted image 20260724220751.png",
+    "Courses/GCI 2026/Extra.md",
     "Language/Japanese",
     "Language",
     "Courses/FSO Helsinki/FSO - Extra.md",
@@ -183,7 +215,6 @@
     "Courses/FSO Helsinki/Part 4 - Testing and Auth.md",
     "Courses/FSO Helsinki/Part 3 - Programming a Server.md",
     "Courses/FSO Helsinki/Part 2 - Communicating with Server.md",
-    "Courses/FSO Helsinki/Part 1 - React.md",
     "Courses/FSO Helsinki/Part 0 - Fundamentals.md",
     "Images/Pasted image 20260724220808.png",
     "Computer Science/Programming/Regex.md",
@@ -197,13 +228,6 @@
     "Images/Pasted image 20250713132600.png",
     "Images/Pasted image 20250712203434.png",
     "Images/Pasted image 20250711110710.png",
-    "Images/finite_automata_example.png.png",
-    "Computer Science/CTF/PWN/Return Oriented Programming.md",
-    "Computer Science/Low Level Learning/Assembly.md",
-    "Computer Science/Low Level Learning/Architecture.md",
-    "Computer Science/CTF/PWN/Stack.md",
-    "Computer Science/CTF/PWN/Introduction to PWN.md",
-    "Computer Science/CTF/PWN/Heap Exploitation.md",
-    "Computer Science/CTF/PWN/PWN How-To's.md"
+    "Images/finite_automata_example.png.png"
   ]
 }

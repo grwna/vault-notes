@@ -30,6 +30,12 @@ Verb conjugation rules are the most complex ones in Japanese. Resources:
 - [wikipedia](https://en.wikipedia.org/wiki/Japanese_verb_conjugation#Example_conjugations)
 There can be 30+ ways to conjugate one verb.
 
+- plain / present tense: taberu
+- negative plain / present tense: tabenai
+- past tense: tabeta
+- negative past tense: tabenakatta
+All of these also exist for i-adjectives: oishii, oishikunai, oishikatta, oishikunakatta.  
+And for na-adjectives by using: da, datta, janai, janakatta.
 ## Negative Verbs
 Conjugation rules for negative verbs
 - **For ru-verbs:** Drop the 「る」 and attach 「ない」  
@@ -81,5 +87,12 @@ Change the final **$u$-sound** of the dictionary form to its corresponding **$i$
 #### 3. Irregular Verbs
 - **する** (_suru_ - to do) $\rightarrow$ Stem: **し** (_shi-_)
 - **来る** (_kuru_ - to come) $\rightarrow$ Stem: **来 / き** (_ki-_)
+
+
+**する-Verbs**
+Look it up
+
+
+**What is the Stem for?**
 
 

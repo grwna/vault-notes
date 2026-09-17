@@ -50,3 +50,4 @@ Like in:
 - achira/acchi: distant from both speaker/listener
 - sochira/socchi: distant from speaker, close to listener
 - kochira/kocchi: close to speaker, far from listener
+- all these directions can be used as pronouns (こっち -> me)
