@@ -98,7 +98,85 @@ volumes:
   mongo_data:
 ```
 
-****
+
+# Multi-Stage Build
+An approach where you use multiple base images to build, but use a different base image in the final container.
+Example: 
+To build a react application you use node base image. Once built, you have static files, which doesn't require node anymore. Therefore you can just use a different ligther image for the container, and the Node image is used only in the build step.
+
+You can have added steps, for example, before the build stage, have a testing stage, where the test files are the ones being build. 
+
+Example docker test runner `RUN CI=true npm test`. `CI=true` signals that the testing is done in a CI environment, which will affect the operation in some way. For our usage, the build will not execute if test fails.
+
+# Container Networking
+**Busybox**
+The Swiss Army Knife of Embedded Linux. Combines many small unix tools into a compact binary. You can use this to debug containers. When using the busybox image, no process will run inside the container.
+
+**Compose Networking**
+By default, all containers created using one compose files are placed in the same network. You can use the `networks` attribute to create different networks, where one container can exist in multiple networks at the same time.
+Example: 
+```yml
+services:
+  frontend:
+    image: nginx
+    networks:
+      - front-net
+
+  backend:
+    image: my-api
+    networks:           # connected to 2 networks at once
+      - front-net
+      - back-net
+
+  db:
+    image: postgres
+    networks:
+      - back-net
+
+networks:
+  front-net:
+  back-net:
+```
+
+Both container name and service name can be used as domain name to communicate in a network.
+
+**Reverse Proxy**
+Nginx can be used as reverse proxy for container networks.
+```
+# events is required, but defaults are ok
+events { }
+
+# A http server, listening at port 80
+http {
+  server {
+    listen 80;
+
+    # Requests starting with root (/) are handled
+    location / {
+      # The following 3 lines are required for the hot reload to work
+      proxy_http_version 1.1;
+      proxy_set_header Upgrade $http_upgrade;
+      proxy_set_header Connection 'upgrade';
+
+      # Requests are directed to http://localhost:5173
+      proxy_pass http://localhost:5173;
+    }
+  }
+}
+
+```
+Trailing slash in `proxy_pass`'s location has a quirk: it consumes the path (ex: `http://app/api/`). Then it removes `/api` from the forwarded request.
+
+|**Location Block**|**proxy_pass**|**Incoming Request**|**Upstream Request**|**Prefix Consumed?**|
+|---|---|---|---|---|
+|`location /api/v1/backend`|`http://app`|`/api/v1/backend/users`|`/api/v1/backend/users`|**No**|
+|`location /api/v1/backend/`|`http://app`|`/api/v1/backend/users`|`/api/v1/backend/users`|**No**|
+|`location /api/v1/backend/`|`http://app/`|`/api/v1/backend/users`|`/users`|**Yes (replaces `/api/v1/backend/` with `/`)**|
+
+**Depends-On**
+- Under a service, you can add the `depends_on` attribute, which makes it so that this specific service will not start before the service it depends on.
+
+
 # Summary
 Steps of containerization:
 Composeless:
@@ -109,3 +187,8 @@ Compose:
 - `docker compose up`
 
 It seems compose only wins by one command, but usually you would use `docker run` with many flags (ENVs, port, naming, rules, etc.)
+
+
+It is beneficial to not run containers using `-d`, especially when doing dev.
+
+During development, there will be times where you will have compose for frontend and backend separately, and compose for both together (integrations).

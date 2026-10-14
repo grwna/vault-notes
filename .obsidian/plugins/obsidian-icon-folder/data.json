@@ -39,14 +39,14 @@
   "Computer Science": "LiLaptop2",
   "Computer Science/CTF": "LiShieldAlert",
   "Computer Science/AI & Data": "LiNetwork",
-  "Computer Science/Web Development": "LiGlobe",
   "Computer Science/Low Level Learning": "LiCpu",
   "Computer Science/Cryptography": "LiFileLock",
   "Math": "LiLineChart",
   "Courses": "LiBookOpenText",
   "College": "LiGraduationCap",
-  "Images": "LiImage",
   "Computer Science/Programming": "LiCode",
   "Language": "LiLanguages",
-  "Computer Science/Vibe Coding": "LiAlertTriangle"
+  "Computer Science/Vibe Coding": "LiAlertTriangle",
+  "Computer Science/Software Engineering/Web Development": "LiGlobe",
+  "_Images": "LiImage"
 }

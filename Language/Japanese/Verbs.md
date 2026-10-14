@@ -95,4 +95,10 @@ Look it up
 
 **What is the Stem for?**
 
+# Te-form
+- '-te oku': todo something in preparation of the future
+- '-te miru': to try to do something
+- motion verbs
+	- '-te iku': directs verb away from a place
+	- '-te kuru': directs verb toward a place
 

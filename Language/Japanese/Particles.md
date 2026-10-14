@@ -39,3 +39,22 @@ If the explanatory "no" follows a noun or a na-adjective, there's a "na" added i
 
 ので puts emphasis on the reason, whereas から puts emphasis on the result
 
+**Listing Particles**
+し -> one reason among other things
+たりーする -> list of things you do in no order
+てform -> list of things you do in a certain order, and multiple reasons
+
+All of these dont necessarily require multiple things, one is enough.
+
+
+**Summary: Compound Sentences**
+In chapter 4.4, Tae Kim introduced several possibilities to connect sentences, here's a summary:  
+
+- **-te form** acts as "and": amakute umai zo - [it] is sweet and tasty.
+- **kara** gives a reason as [reason] kara [result]: tsukareta kara watashi ha neru zo - because I'm tired I go to sleep.
+- **node** gives a reason: Almost the same as kara, slightly softer and slightly more polite.
+- **noni** means "despite" or "even though" and is used like this: [sentence 1] noni [sentence 2] - despite / even though [sentence 1], [sentence 2] happened.
+- **kedo** means "but", indicates a contradiction: yoku wakaranai kedo zenzen ii yo - I don't understand well, but it's ok.
+- **ga**: Same as "kedo", but slightly more polite. Usually used with -masu forms.
+- **shi**: Gives an incomplete list of reasons for something.
+- **-tari suru**: Gives an incomplete list of actions or states, which might also serve as reasons.
