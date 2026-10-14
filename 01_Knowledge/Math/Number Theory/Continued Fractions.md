@@ -1,8 +1,6 @@
 Continued fractions help us find good approximations for real life constants.
 
 # Introduction
-## Euclid's GCD
-[[Modular Arithmetic#Euclid's GCD|Euclid's GCd]]
 
 Continued fractions can be seen in the calculations of GCD, say we need to find $GCD(43,19)$, we would do:
 $$\begin{align}

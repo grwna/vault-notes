@@ -1,1 +1,0 @@
-This directory contains cheatsheets and instructions on using certain tools, so that i don't have to ask LLM's each time i want to do something
