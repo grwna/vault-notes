@@ -14,7 +14,7 @@ Twin primes, are primes that are close together, or have a distance of 2 (5 - 7,
 
 # Appendix
 ## How to Read
-**Exercises**
+**[[Exercises]]**
 - **The Sanity Check (2 problems):** Pick the first two problems. These are usually mechanical (e.g., "Write the contrapositive"). If you can do them instantly, your foundation is good.
 
 - **The Core Work (3-4 problems):** Jump to the middle of the exercise list. These usually require you to actually construct a proof. Do enough of these until you feel the logic "click."

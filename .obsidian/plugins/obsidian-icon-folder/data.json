@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSendToBack",
       "LiGlobeLock",
       "LiMedal",
       "LiBrainCircuit",
-      "LiNetwork",
-      "LiAppWindow"
+      "LiNetwork"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,7 +41,7 @@
   "01_Knowledge/Languages": "LiLanguages",
   "01_Knowledge/Software Engineering/Web Development": "LiGlobe",
   "01_Knowledge/Software Engineering": "LiAppWindow",
-  "01_Knowledge/Software Engineering/System Design": "LiNetwork",
+  "01_Knowledge/Software Engineering/System Design": "LiSendToBack",
   "01_Knowledge/AI & Data": "LiBrainCircuit",
   "01_Knowledge/Computer Science": "LiLaptop2",
   "01_Knowledge/Computer Science/Programming": "LiCode",
@@ -52,5 +52,6 @@
   "01_Knowledge/Math": "LiLineChart",
   "01_Knowledge/Low Level": "LiCpu",
   "01_Knowledge/Cryptography": "LiFileLock",
-  "01_Knowledge/Cybersecurity": "LiGlobeLock"
+  "01_Knowledge/Cybersecurity": "LiGlobeLock",
+  "01_Knowledge/Computer Science/Algorithms & Data Structure": "LiNetwork"
 }

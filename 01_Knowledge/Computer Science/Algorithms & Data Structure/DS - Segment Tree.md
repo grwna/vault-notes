@@ -1,0 +1,5 @@
+---
+aliases:
+  - Segment Tree
+  - SegTree
+---

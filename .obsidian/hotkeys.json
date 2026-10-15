@@ -96,14 +96,6 @@
       "key": "ArrowUp"
     }
   ],
-  "editor:insert-table": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "T"
-    }
-  ],
   "app:open-settings": [
     {
       "modifiers": [
@@ -191,6 +183,23 @@
         "Alt"
       ],
       "key": "D"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ],
+  "workspace:undo-close-pane": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
     }
   ]
 }
