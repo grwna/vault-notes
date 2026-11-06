@@ -3,9 +3,53 @@ This document contains all japanese grammar forms without explanation, just as a
 - 'node', 'noni', 'kedo', 'ga', 'shi', 'kara'
 - '-tari suru'
 -  '-te iru', '-te aru', '-te oku', '-te miru', '-te iku', '-te kuru'
+- 'i' is somethimes omitted
 - '-te shimau' -> '-chau'
 - '-de shimau' -> '-jau'
+but
+- 'ga'
+"if...then"
 - '-to, '-nara', '-tara'/'-past+ra', '-eba', 'i-adjectives/negatives + -kereba'
+"End particles"
+- 'nonda/nanda' -> 'na no da' (explanatory form)
+- 'ka na' -> wonder
+- 'wa yo' 
+"You/I must"
+- bad is "naranai"/"ikenai"/"dame"
+- naranai can be omitted (casual)
+- "-te ha + bad"
+- "-nakucha + bad"
+- "-nakereba + bad"
+- "-nakya + bad"
+- "-to" 
+- "-eba ii" -> should do
+ask/grant permission
+- "-te mo ii"
+- "-te ii"
+ask question
+- "ka"
+- "kai"
+want to do something (for self, not for others, can use to ask others tho)
+- "-tai"
+- "-takunai"
+- "-te hoshii" -> want someone to do something
+do things in the future
+- '-te oku'
+let's (these can also mean 'try to --')
+- '-ou' -> u verbs
+- '-you' -> ru verbs
+- '-ou to shiru'
+quoting (present, the past can be derived)
+- '-tte/-to iu'
+- '-tte/-to kiku'
+- '-tte/-to yobu'
+- '-tte/-to omou'
+give/receive
+- 'ageru' (raise/give someone an object)
+- 'kureru' (given by someone to you)
+- '-te ageru' (doing as a favor)
+- '-te kureru'
+
 
 # Conjugations
 ## Plain

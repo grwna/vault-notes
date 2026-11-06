@@ -4,81 +4,76 @@
     "type": "split",
     "children": [
       {
-        "id": "21953f2f19fc1405",
+        "id": "79019ecd259e38f4",
         "type": "tabs",
         "children": [
           {
-            "id": "2837dbbb924e9882",
+            "id": "061cf6d8422d2af3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Sem 7/Kriptografi/Public Key.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Public Key"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           },
           {
-            "id": "e195c62039ef9d6a",
+            "id": "856642031c2928db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Sem 7/CyberSec/Countermeasure.md",
+                "file": "02_Sources/College/Sem 7/CyberSec/10 - Resilient System Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Countermeasure"
+              "title": "10 - Resilient System Design"
             }
           },
           {
-            "id": "4f17ed7af77c1099",
+            "id": "141c82f82e91c51d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Sem 7/Kriptografi/Block.md",
+                "file": "02_Sources/College/Sem 7/CyberSec/10 - Resilient System Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Block"
+              "title": "10 - Resilient System Design"
             }
           },
           {
-            "id": "ed2831ae62f69bdf",
+            "id": "de450e6546b73a25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/AI & Data/Automatic Differentiation.md",
+                "file": "01_Knowledge/Languages/Mandarin/Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Automatic Differentiation"
+              "title": "Summary"
             }
           },
           {
-            "id": "221b2cecd8bf2c44",
+            "id": "b46a1cffbd5e5001",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Sem 7/Kriptografi/Elliptic Curve.md",
+                "file": "01_Knowledge/Computer Science/Algorithms/Floyd's Cycle Finding Algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elliptic Curve"
+              "title": "Floyd's Cycle Finding Algorithm"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -153,17 +148,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/FSO Helsinki/Part 3 - Programming a Server.md",
+                "file": "03_Meta/Inbox.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Part 3 - Programming a Server"
+              "title": "Backlinks"
             }
           },
           {
@@ -172,12 +167,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/FSO Helsinki/Part 3 - Programming a Server.md",
+                "file": "02_Sources/Inbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Part 3 - Programming a Server"
+              "title": "Outgoing links"
             }
           },
           {
@@ -201,8 +196,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/FSO Helsinki/Part 12 - Containers.md",
-                "followCursor": false,
+                "file": "02_Sources/Inbox.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -210,8 +205,7 @@
               "title": "Outline"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -230,45 +224,46 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "427690771757b7cc",
+  "active": "b46a1cffbd5e5001",
   "lastOpenFiles": [
-    "01_Knowledge/AI & Data/Backpropagation.md",
-    "01_Knowledge/AI & Data/Data Preparation & Modelling.md",
-    "01_Knowledge/AI & Data/Automatic Differentiation.md",
-    "01_Knowledge/Competitions/CTF/CTF Learn.md",
-    "01_Knowledge/AI & Data/Data Analysis/Power BI.md",
-    "01_Knowledge/Cybersecurity/Web Exploitation/Server Side.md",
-    "01_Knowledge/Cybersecurity/Web Exploitation/Path Traversal.md",
-    "01_Knowledge/Cybersecurity/Web Exploitation/File Upload Vulnerabilities.md",
-    "02_Sources/Courses/PortSwigger/PortSwigger Plan.md",
-    "02_Sources/Courses/PortSwigger/Server Side Labs.md",
-    "02_Sources/Courses/PortSwigger/SQLi Labs.md",
-    "01_Knowledge/Cybersecurity/Reverse Engineering/Functions, Frames, and Data.md",
-    "01_Knowledge/Cybersecurity/Reverse Engineering/GDB.md",
-    "01_Knowledge/Competitions/CTF/MISC/Python.md",
-    "README.md",
-    "01_Knowledge/Cybersecurity",
-    "01_Knowledge/Cryptography/Caesar Cipher.md",
-    "01_Knowledge/Cryptography/Vigenere Cipher.md",
-    "01_Knowledge/Competitions/CP/C++.md",
-    "01_Knowledge/Competitions/CP/Data Structures.md",
-    "01_Knowledge/Competitions/CP/INC2026.md",
-    "01_Knowledge/Competitions/CP/Math Concepts.md",
-    "01_Knowledge/Competitions/CP/Roadmap.md",
+    "01_Knowledge/Languages/Mandarin/Summary.md",
+    "01_Knowledge/Computer Science/Algorithms/Floyd's Cycle Finding Algorithm.md",
+    "02_Sources/College/Sem 7/CyberSec/10 - Resilient System Design.md",
+    "01_Knowledge/Languages/Mandarin",
+    "02_Sources/College/Sem 7/CyberSec/11 - Cloud Native Continuity.md",
+    "02_Sources/College/Sem 7/CyberSec/9 - Security Architecture, Threat Modeling & MITRE ATT&CK D3FEND.md",
+    "01_Knowledge/Languages/Japanese/Summary.md",
+    "01_Knowledge/Competitions/CP/Tips.md",
+    "01_Knowledge/Computer Science/Algorithms/Dijkstra's Algorithm.md",
+    "02_Sources/Notes/LeetCode.md",
+    "01_Knowledge/Computer Science/Algorithms/Basic Array Algorithms.md",
+    "01_Knowledge/Computer Science/Algorithms/Exchange Argument.md",
+    "01_Knowledge/Computer Science/Algorithms/Basic Algorithms.md",
     "01_Knowledge/Competitions/CP/Intuition.md",
-    "01_Knowledge/Computer Science/Computer Networks.md",
-    "01_Knowledge/Computer Science/Blockchain.md",
-    "01_Knowledge/Low Level/Architecture.md",
+    "01_Knowledge/Competitions/CP/Roadmap.md",
+    "01_Knowledge/Competitions/CP/Math Concepts.md",
+    "02_Sources/College/Sem 7/Database & Storage.md",
+    "02_Sources/Notes",
+    "01_Knowledge/Computer Science/Algorithms/Sliding Window.md",
+    "01_Knowledge/Computer Science/Algorithms/Non Comparison Sorting.md",
+    "01_Knowledge/Computer Science/Algorithms/Quickselect.md",
+    "03_Meta/Templates/Knowledge Template.md",
+    "03_Meta/Templates/Source Template.md",
+    "03_Meta/Inbox.md",
+    "01_Knowledge/AI & Data/Machine Learning/Supervised Learning.md",
+    "01_Knowledge/AI & Data/Machine Learning/Segmentation.md",
+    "02_Sources/College/Sem 7/Service Computing/Design Patterns in SOA.md",
+    "01_Knowledge/Math/Math for Competitive Programming",
+    "Source Note File.md",
+    "01_Knowledge/Computer Science/Data Structure",
+    "01_Knowledge/AI & Data/Computer Vision",
+    "01_Knowledge/AI & Data/Machine Learning",
+    "Untitled.canvas",
+    "03_Meta/Templates",
+    "01_Knowledge/Computer Science/Algorithms",
+    "01_Knowledge/Cybersecurity",
     "01_Knowledge/Math/Number Theory",
-    "01_Knowledge/Competitions",
-    "03_Meta/Attachments",
-    "03_Meta",
-    "02_Sources",
-    "01_Knowledge",
     "03_Meta/Images/Pasted image 20261012005353.png",
-    "02_Sources/College/Sem 7/Service Computing",
-    "02_Sources/College/Sem 7/CyberSec",
-    "01_Knowledge/Computer Science/Other Topics",
     "03_Meta/Images/Pasted image 20260724220751.png",
     "03_Meta/Images/Pasted image 20260724220808.png",
     "03_Meta/Images/Pasted image 20250713133046.png",
