@@ -80,3 +80,11 @@ aliases:
 ```
 
 This ensures that Obsidian's auto-complete, graph connections, and unlinked mention detectors recognize variations of the concept automatically.
+
+### Knowledge Statuses
+Knowledge notes have the status property, mainly for tracking backlogs. The status lifecycle works like the following:
+- `backlog` - interested to learn, not studying yet
+- `in-progress` - currently writing
+- `done` - once I'm happy with the note 
+
+Note that once done, the note might still grow as I learn more.

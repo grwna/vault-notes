@@ -1,12 +1,15 @@
 ---
 aliases:
+status: backlog
+tags:
 ---
 
 ## Related
 - [[Source Note File]]
 - [[Related Concept Note]]
 
-## 1. Quick Summary 
+**Prerequisites**
+## 1. Summary 
 - One-sentence intuition or primary mental model.
 
 ## 2. Core Concepts & Mechanics

@@ -1,19 +1,21 @@
 ---
 aliases:
-  - graph
-  - Graph
+status: backlog
+tags:
+  - machine-learning
 ---
 
 ## Related
 - [[Source Note File]]
 - [[Related Concept Note]]
 
-## 1. Quick Summary 
+**Prerequisites**
+## 1. Summary 
 - One-sentence intuition or primary mental model.
 
-## 2. Core Concepts & Mechanics
-- Detailed explanation, proofs, mechanisms, or protocols.
-l
+## 2. Types of Segmentation
+### **Image Segmentation**
+- Pixel level image partitioning to identify shapes, boundaries, and objects instead of a simple bounding box around an object.
 ## 3. Implementation / Math / Security
 - Code snippets, SageMath scripts, equations, or specific attack vectors.
 
